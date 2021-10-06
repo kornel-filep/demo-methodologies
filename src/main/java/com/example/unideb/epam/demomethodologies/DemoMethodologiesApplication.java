@@ -8,6 +8,11 @@ public class DemoMethodologiesApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Hello changes!");
+		System.out.println("Hello changes!");
+		System.out.println("Hello changes!");
+		System.out.println("Hello changes!");
+		System.out.println("Hello changes!");
+		System.out.println("Hello changes!");
 		SpringApplication.run(DemoMethodologiesApplication.class, args);
 	}
 
